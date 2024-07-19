@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 114, 114);
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+#sec-el {
+    color: blue;
+    font-size: 36px;
+
+}
+.third-el {
+    font-size: 36px;
+}
+#fourth-el {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
